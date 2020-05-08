@@ -79,3 +79,23 @@
     "guilds": [] // Array of JSON Objects
 }
 ```
+
+---
+
+> POST /guilds/mine
+- The POST parameters needed are as below. 
+- This endpoint ONLY returns your Guilds!
+- You only need to pass the `token` into the POST Parameter from the `/login` endpoint.
+- You may read the return types <a href="https://discord.com/developers/docs/resources/user#get-current-user-guilds" target="_blank">here</a>.
+```json
+{
+	"token": "YOUR_UNIQUE_TOKEN"
+}
+```
+> RETURN FOR /guilds
+```
+{
+    "total": 100, // This parameter is custom, this helps you count the amount of Guilds. 
+    "guilds": [] // Array of JSON Objects
+}
+```
