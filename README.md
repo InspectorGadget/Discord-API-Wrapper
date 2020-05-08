@@ -106,11 +106,11 @@
 |  Code |  Message |
 | ------------ | ------------ |
 | 200 | All Ok |
-| 400 | BAD REQUEST: The request was improperly formatted, or the server couldn't understand it. |
-| 401 | UNAUTHORIZED: Your access token is invalid. Please request a new one with /login. |
-| 403 | FORBIDDEN: The access token provided has no access to this resource.  |
-| 404 | NOT FOUND: The requested endpoint is not found. |
-| 405 | METHOD NOT ALLOWED: The requested endpoint does not allow this action.  |
-| 429 | TOO MANY REQUESTS: Your access token is being rate limited by Discord. Try again in a bit. |
+| 400 | BAD REQUEST: The request was improperly formatted, or the server couldn't understand it. Your token has been invalidated. |
+| 401 | UNAUTHORIZED: Your access token is invalid. Please request a new one with /login. Your token has been invalidated. |
+| 403 | FORBIDDEN: The access token provided has no access to this resource. Your token has been invalidated.  |
+| 404 | NOT FOUND: The requested endpoint is not found. Your token has been invalidated. |
+| 405 | METHOD NOT ALLOWED: The requested endpoint does not allow this action. Your token has been invalidated.  |
+| 429 | TOO MANY REQUESTS: Your access token is being rate limited by Discord. Try again in a bit. Your token has been invalidated. |
 | 500 | INTERNAL ERROR: An internal error has occurred. Please make an issue on GitHub or contact on Discord. Your token has been invalidated. |
 | 502 | GATEWAY UNAVAILABLE: Discord Gateway APIs are dead. Your token has been invalidated. |
