@@ -92,7 +92,7 @@
 	"token": "YOUR_UNIQUE_TOKEN"
 }
 ```
-> RETURN FOR /guilds
+> RETURN FOR /guilds/mine
 ```
 {
     "total": 100, // This parameter is custom, this helps you count the amount of Guilds. 
