@@ -1,10 +1,11 @@
-# Discord API Wrapper for Panels
+# Discord API Wrapper for Panel
 ## API Link: To be added
 ### DISCLAIMER
 - This API has no connection with the original Discord Company.
 - This API just serves as a wrapper, and does not store sensitive personal information or secrets of the OAUTH. 
 - We only store your `access_token` and at any time you may Email me at <a href="mailto:igadget28@gmail.com">igadget28@gmail.com</a> or contact me on Discord 𝑰𝑮#1337 to get it removed or exported. 
 - This API extends Flask (A Python Framework)
+- <b>Please ensure that your POST `Content-Type` is set to "application/json".</b>
 ---
 
 > POST /login
