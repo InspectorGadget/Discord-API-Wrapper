@@ -101,7 +101,7 @@
 ```
 
 ### Status Codes
-- These are mofified status codes. You may read more about the status from Discord <a href="https://discord.com/developers/docs/topics/opcodes-and-status-codes" target="_blank">here</a>.
+- These are modified status codes. You may read more about the status from Discord <a href="https://discord.com/developers/docs/topics/opcodes-and-status-codes" target="_blank">here</a>.
 
 |  Code |  Message |
 | ------------ | ------------ |
