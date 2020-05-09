@@ -1,5 +1,5 @@
 # Discord API Wrapper for Panel
-## API Link: To be added
+## API Link: <a href="https://discord-api.auto-deploy.dev/">https://discord-api.auto-deploy.dev/</a>
 ### DISCLAIMER
 - This API has no connection with the original Discord Company.
 - This API just serves as a wrapper, and does not store sensitive personal information or secrets of the OAUTH. 
