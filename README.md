@@ -1,5 +1,6 @@
 # Discord API Wrapper for Panel
 ## API Link: <a href="https://discord-api.auto-deploy.dev/">https://discord-api.auto-deploy.dev/</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1EsX1kEK52s" frameborder="0" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 ### DISCLAIMER
 - This API has no connection with the original Discord Company.
 - This API just serves as a wrapper, and does not store sensitive personal information or secrets of the OAUTH. 
